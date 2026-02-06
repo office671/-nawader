@@ -1,0 +1,7 @@
+{
+  "name": "Copy of Nawader AI Suite",
+  "description": "A high-performance AI assistant featuring advanced chat reasoning and image analysis powered by Gemini 3 Pro.",
+  "requestFramePermissions": [
+    "camera"
+  ]
+}
